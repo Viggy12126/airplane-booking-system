@@ -15,7 +15,7 @@ app.listen(ServerConfig.PORT, () => {
     console.log(`Successfully started the server on PORT : ${ServerConfig.PORT}`);
 
     //Bad code alert
-    const {City,Airport}=require('./models');
+    // const {City,Airport}=require('./models');
 
     // const blore=await City.findByPk(10);
     // // console.log(blore);
